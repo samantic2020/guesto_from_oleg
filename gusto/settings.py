@@ -33,7 +33,7 @@ SECRET_KEY = SECRET_KEY
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['gusto-12-01-2021.herokuapp.com']
+ALLOWED_HOSTS = ['guto-from-oleg.herokuapp.com']
 
 
 # Application definition
